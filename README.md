@@ -45,3 +45,5 @@ This was one of my case projects for Analytics Summer Camp at Genesis Academy
 вплив зміни ціни на дохід з 1 користувача
 
 фінансовий результат за період з 02.02.2023 по 22.03.2023 (Як змінилось revenue в результаті запуску цього тесту на 30% трафіку) 
+
+### Розв'язок задачі: https://hurricane-syringa-927.notion.site/4-9811056a2bf04b1cad2019940f3da13d?pvs=74
